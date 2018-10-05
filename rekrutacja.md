@@ -5,7 +5,7 @@ permalink: /
 ---
 
 # Tester junior
-Szukamy początkującego testera z aspiracjami programistycznymi. Wiele narzędzi budujemy od nowa, dlatego ważna jest zdolność do szybkiego uczenia się i stosowania poznanych rzeczy. Potrzebna też będzie umiejętność głębokiego zrozumienie problemu i samodzielne wynajdywanie rozwiązań. Samych narzędzi i frameworków nauczysz się w trakcie pracy.
+Szukamy testera z aspiracjami programistycznymi. Wiele narzędzi budujemy od nowa, dlatego ważna jest zdolność do szybkiego uczenia się i stosowania poznanych rzeczy. Potrzebna też będzie umiejętność głębokiego zrozumienie problemu i samodzielne wynajdywanie rozwiązań. Samych narzędzi i frameworków nauczysz się w trakcie pracy.
 
 **Przykładowe zadania:**
 - rozwijanie testów integracyjnych na podstawie przypadków użycia
@@ -15,7 +15,7 @@ Szukamy początkującego testera z aspiracjami programistycznymi. Wiele narzędz
 - tworzenie dokumentacji i user stories
 
 # Frontend junior
-Szukamy osoby, która chce rozwijać się w kierunku frontend-developmentu, ucząc się najnowszych technologii i frameworków. Wymagamy umiejętności szybkiego uczenia się i samodzielności. Ponieważ najlepiej uczyć się stosując poznane rzeczy, od samego będziesz początku tworzył/a użyteczny kodu, który trafi na produkcję.
+Szukamy osoby, która chce rozwijać się w kierunku frontend-developmentu, pracując z najnowszymi frameworkami i technologiami. Wymagamy umiejętności szybkiego uczenia się i samodzielności. Ponieważ najlepiej poznawać rzeczy w praktyce, od samego początku będziesz tworzył/a użyteczny kodu, który trafi na produkcję.
 
 **Przykładowe zadania**
 - tworzenie wydajnych i responsywnych stron w Vue lub React
