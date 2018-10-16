@@ -1,0 +1,18 @@
+{
+  "name": "wataha",
+  "version": "1.0.0",
+  "description": "+ optymalizacja gif'a (wywaliłem gifa) + optymalizacja ładowania (png > jpg) + dodać favicon + dodać zdjęcia swoje - dodać info co oferujemy - dodać zdjęcia SW",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@176.119.59.14:v3/wataha.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "photoswipe": "^4.1.2"
+  }
+}
