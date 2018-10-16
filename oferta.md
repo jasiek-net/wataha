@@ -67,8 +67,6 @@ for (var i = 0; i < 10; i++) {
   })
 }
 
-console.log(items)
-
 // Initializes and opens PhotoSwipe
 document.addEventListener('click', function (event) {
   if (!event.target.matches('.sw')) return;
