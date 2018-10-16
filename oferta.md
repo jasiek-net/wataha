@@ -4,7 +4,7 @@ permalink: /
 ---
 
 # Cześć!
-Szukamy programistów do zespołu technologicznego. Opis stanowisk i przykładowe zadania znajdziesz w zakładce <a href="/pozycje">pozycje</a>. Szczegółowe informacje o naszej działalności i głównym projekcie - platformie zwolnienizteorii.pl - znajdziesz w zakładce <a href="/o-nas">o nas</a>. Zależy nam na tworzeniu długofalowych relacji i wspólnym znajdowaniu możliwości, więc jeśli coś Cię zainteresuje, po prostu napisz <a href="mailto:jan.horubala@socialwolves.com">e-maila</a> i umówmy się na spotkanie.
+Szukamy programistów do zespołu technologicznego. Opis stanowisk i&nbsp;przykładowe zadania znajdziesz w zakładce <a href="/pozycje">pozycje</a>. Szczegółowe informacje o naszej działalności i&nbsp;głównym projekcie - platformie zwolnienizteorii.pl - znajdziesz w zakładce <a href="/o-nas">o nas</a>. Zależy nam na tworzeniu długofalowych relacji i wspólnym znajdowaniu możliwości, więc jeśli coś Cię zainteresuje, po prostu napisz <a href="mailto:jan.horubala@socialwolves.com">e-maila</a> i umówmy się na spotkanie.
 
 <div class="sws">
   <div data-index="0" class="sw" style="background-image: url('{{ site.baseurl }}/images/sw/min_s0.jpg')"></div>
@@ -16,10 +16,9 @@ Szukamy programistów do zespołu technologicznego. Opis stanowisk i przykładow
 # Co oferujemy?
 - elastyczne godziny pracy
 - możliwość pracy zdalnej
-- startupową atmosferę
 - stabilne warunki pracy
 - świeże owoce i pyszną kawę
-- przyjazną i inspirująca atmosferę
+- startupową, przyjazną i inspirującą atmosferę
 - pracę z zaangażowanymi i przedsiębiorczymi ludźmi
 - dostęp do konferencji i warsztatów, książki branżowe
 - wspólne imprezy i wyjazdy integracyjne 2 razy w roku
@@ -29,7 +28,7 @@ Szukamy programistów do zespołu technologicznego. Opis stanowisk i przykładow
 - możliwość rozwijania własnych projektów, wsparcie merytoryczne
 - możliwość nauki i rozwoju w oparciu o najlepsze praktyki programistyczne
 - dostęp do inicjatyw i energii tysięcy młodych ludzi z całej Polski, realizujących projekty społeczne na platformie
-- nieformalne rozmowy oraz czerpanie wiedzy biznesowej od naszych Przyjaciół i partnerów biznesowych, m.in. kadry zarządzającej Coca-Cola, T-Mobile czy Google
+- nieformalne rozmowy oraz czerpanie wiedzy biznesowej od naszych Przyjaciół i&nbsp;partnerów biznesowych, m.in. kadry zarządzającej Coca-Cola czy Google
 
 # Z kim działamy?
 <div class="marks">

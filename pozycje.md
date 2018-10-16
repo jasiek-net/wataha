@@ -4,9 +4,9 @@ permalink: /pozycje
 ---
 
 # Tester junior
-Szukamy testera z aspiracjami programistycznymi. Wiele narzędzi budujemy od nowa, dlatego ważna jest zdolność do szybkiego uczenia się i stosowania poznanych rzeczy. Potrzebna też będzie umiejętność głębokiego zrozumienie problemu i samodzielne wynajdywanie rozwiązań. Samych narzędzi i frameworków nauczysz się w trakcie pracy.
+Szukamy testera z aspiracjami programistycznymi. Wiele narzędzi budujemy od nowa, dlatego ważna jest zdolność do szybkiego uczenia się i stosowania poznanych rzeczy. Potrzebna też będzie umiejętność głębokiego zrozumienia problemów i samodzielne wynajdywanie rozwiązań. Samych narzędzi i frameworków nauczysz się w trakcie pracy.
 
-**Przykładowe zadania:**
+**Przykładowe zadania**
 - rozwijanie testów integracyjnych na podstawie przypadków użycia
 - pisanie testów do nowych funkcjonalności w Nightwatch JS
 - tworzenie testów integracyjnych w Jenkins i Selenium

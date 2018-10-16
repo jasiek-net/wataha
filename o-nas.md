@@ -18,12 +18,12 @@ Mamy ponad 40 tys. użytkowników, których działania wpłynęły na 10 mln ben
 </div>
 
 ## Wataha
-Budujemy zgrany zespół ludzi, których łączy fascynacja technologią. Skupiamy inżynierów, czyli osoby które na codzień myślą technicznie, porządkują rzeczywistość i dążą do automatyzacji, tam gdzie to możliwe.
+Budujemy zgrany zespół ludzi, których łączy fascynacja technologią. Skupiamy inżynierów, czyli osoby które na codzień myślą technicznie, porządkują rzeczywistość i&nbsp;dążą do automatyzacji tam, gdzie to możliwe.
 
-Pracując w startupie społecznym kładziemy nacisk na budowanie relacji i dbanie o wspólnie spędzony czas. Nie ma tu przypadkowych osób. Nasza praca to nie sprint, tylko maraton, dlatego inspirujemy i motywujemy się na pozostałych płaszczyznach życia.
+Pracując w startupie społecznym kładziemy nacisk na budowanie relacji i&nbsp;dbanie o wspólnie spędzony czas. Nie ma tu przypadkowych osób. Nasza praca to nie sprint, tylko maraton, dlatego inspirujemy i&nbsp;motywujemy się na pozostałych płaszczyznach życia.
 
 ## O mnie
-Nazywam się Janek Horubała, jestem programistą web i mobile z ponad 5-letnim doświadczeniem. W ramach licencjatu z informatyki na MIM UW napisałem aplikację do rozpoznawania piw. Przewinąłem się przez takie miejsca jak Kalicińscy, Laboratorium EE czy Daftcode. Działałem w firmach zatrudniających ponad 100 pracowników, jak i małych startupach złożonych z 2-3 osób. Aktywnie uczestniczę w środowiskach programistyczno-startupowych (Reaktor, Indiehackers) i prowadzę szkolenia z programowania w ramach warsztatów WarsawJS. Od roku działam w Zwolnionych z Teorii w roli tech leada.
+Nazywam się Janek Horubała, jestem programistą web i&nbsp;mobile z ponad 5-letnim doświadczeniem. W ramach licencjatu z informatyki na MIM UW napisałem aplikację do rozpoznawania piw. Przewinąłem się przez takie miejsca jak Kalicińscy, Laboratorium EE czy Daftcode. Działałem w firmach zatrudniających ponad 100 pracowników, jak i&nbsp;małych startupach złożonych z 2-3 osób. Aktywnie uczestniczę w środowiskach programistyczno-startupowych (Reaktor, Indiehackers) i&nbsp;prowadzę szkolenia z&nbsp;programowania w&nbsp;ramach warsztatów WarsawJS. Od roku działam w Zwolnionych z&nbsp;Teorii w roli tech leada.
 
 
 ## Zapraszamy do naszego zespołu!
@@ -49,8 +49,8 @@ var pswpElement = document.querySelectorAll('.pswp')[0];
 var items = [
   {
     src: '{{ site.baseurl }}/images/wth/w0.jpg',
-    w: 1080,
-    h: 825,
+    w: 1200,
+    h: 800,
   },
   {
     src: '{{ site.baseurl }}/images/wth/w1.jpg',
@@ -64,13 +64,13 @@ var items = [
   },
   {
     src: '{{ site.baseurl }}/images/wth/w3.jpg',
-    w: 900,
-    h: 1200,
+    w: 1200,
+    h: 800,
   },
   {
     src: '{{ site.baseurl }}/images/wth/w4.jpg',
-    w: 611,
-    h: 344,
+    w: 900,
+    h: 1200,
   },
   {
     src: '{{ site.baseurl }}/images/wth/w5.jpg',

@@ -3,8 +3,9 @@
 + optymalizacja ładowania (png > jpg)
 + dodać favicon
 + dodać zdjęcia swoje
-- dodać info co oferujemy
-- dodać zdjęcia SW
++ dodać info co oferujemy
++ dodać zdjęcia SW
+- SSL na stronę
 
 
 # Fonts
