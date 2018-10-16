@@ -154,8 +154,8 @@
 
         <nav>
           <a  href="/">Oferta</a>
-          <a  href="/pozycje">Pozycje</a>
-          <a class='current' href="/o-nas">O nas</a>
+          <a  href="/pozycje.html">Pozycje</a>
+          <a class='current' href="/o-nas.html">O nas</a>
         </nav>
       </header>
     </div>
@@ -327,7 +327,6 @@ document.addEventListener('click', function (event) {
   if (!event.target.matches('.sw')) return;
   event.preventDefault();
   var index = parseInt(event.target.dataset.index || 0, 10);
-  console.log(index);
   var gallery = new PhotoSwipe(pswpElement, PhotoSwipeUI_Default, items, { index: index });
   gallery.init();
 

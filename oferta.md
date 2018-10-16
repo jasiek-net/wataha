@@ -72,7 +72,6 @@ document.addEventListener('click', function (event) {
   if (!event.target.matches('.sw')) return;
   event.preventDefault();
   var index = parseInt(event.target.dataset.index || 0, 10);
-  console.log(index);
   var gallery = new PhotoSwipe(pswpElement, PhotoSwipeUI_Default, items, { index: index });
   gallery.init();
 
