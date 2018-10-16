@@ -1,9 +1,54 @@
+<!--
+                          (@@@@@@@@@@@@@@@(
+                    (@@@@@@@@@@@@@@@@@@@@@@@@@@@/
+                ,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@.
+             .@@@@@@@@@@@@@@@@@@@@@@@@@@@@@.  *@@@@@@@@.
+           @@@@@@@@@@@@@@@@@@@@@@@@@@@*  *@   @@@@@@@@@@@&
+         @@&*             *&@@@@@@.  .@@@    @@@@@@@@@@@@@@@
+                ,/%%%((*.          @@@@      @@@@@@@@@@@@@@@@/
+      &@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&     @. @@@@@@@@@@@@@@@@@@
+    .@@@@@@@@@@@@@@@(/*&@@@@@@@@@@.     @@@@  @@@@@@@@@@@@@@@@@@
+   *@@@@@@@@@@@/          /%@@@@@@@@@@@@@@@@@   @@@@@@@@@@@@@@@@@,
+  ,@@@@@@@@@@        @@@@@@@@@@@@@@@@@@@@@@@@@@   @@@@@@@@@@@@@@@@.
+  @@@@@@@@@&      *@@@@@@@@@@@@@@@@@@@@@@ @@@@@@@@  (@@@@@@@@@@@@@@
+ @@@@@@@@@*      @@@@@@@@@@@@@@@@@@@@@@@@@@@  @@@@@@  @@@@@@@@@@@@@@
+*@@@@@@@@*     @@@@@@@@@@@@@@@@@@@@@@@@@@@@@(    (@  &@@@@@@@@@@@@@@.
+@@@@@@@@&     @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ ,(@  .@@@@@@@@@@@@@@@@
+@@@@@@@@     (   .@@@@@@@@@@@@@@@@@@@@@@@@@@@,       %@@@@@@@@@@@@@@@
+@@@@@@@(        .@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&  @@@@@@@@@@@@@@
+@@@@@@@         @@@%  ,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@/  @@@@@@@@@@@@
+@@@@@@@        #@     @@@@@@@@@@@@@@@@@@@ ,%@@@@@@@@@@@@.  @@@@@@@@@@
+@@@@@@@              *@@@@@(@@@@@@@@@@@@@@       ,@@@@@@@@.  &@@@@@@@
+@@@@@@@              &@@&  ,@@@@@@@@@@@@@@@@.        @@@@@     #@@@@@
+@@@@@@@  &@          &@     @@@@ %@@   #@/@@@@@       .@@@@@@  ,@@@@&
+ @@@@@@&@@@@                @@@    &  @,   @@@@@@      *    .@@@@@@@
+ %@@@@@@@@@@                .@@       @@@@@     @@@&    #@@@@@@@@@@(
+  @@@@@@@@@@@                *&  @@@  @@@@@@@@.      @@@@@@@@@@@@@@
+   @@@@@@@@@@@                   @@@@@@@@@@@@@@. ,@@@@@@@@@@@@@@@@
+    @@@@@@@@@@%                  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+     @@@@@@@@@@*                 ,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&
+      .@@@@@@@@@/    @@           @@@@@@@@@@@@@@@@@@@@@@@@@@@@
+        @@@@@@@@@%  &@@.           @@@@@@@@@@@@@@@@@@@@@@@@@&
+          @@@@@@@@@ @@@@           ,@@@@@@@@@@@@@@@@@@@@@@@
+            %@@@@@@@@@@@@       (   *@@@@@@@@@@@@@@@@@@@(
+               @@@@@@@@@@@      @@@,  @@@@@@@@@@@@@@@@
+                  #@@@@@@@@      @@@@@@@@@@@@@@@@@(
+                       @@@@@%    ,@@@@@@@@@@@&
+
+ __ __ __   ________   _________  ________   ___   ___   ________
+/_//_//_/\ /_______/\ /________/\/_______/\ /__/\ /__/\ /_______/\
+\:\\:\\:\ \\::: _  \ \\__.::.__\/\::: _  \ \\::\ \\  \ \\::: _  \ \
+ \:\\:\\:\ \\::(_)  \ \  \::\ \   \::(_)  \ \\::\/_\ .\ \\::(_)  \ \
+  \:\\:\\:\ \\:: __  \ \  \::\ \   \:: __  \ \\:: ___::\ \\:: __  \ \
+   \:\\:\\:\ \\:.\ \  \ \  \::\ \   \:.\ \  \ \\: \ \\::\ \\:.\ \  \ \
+    \_______\/ \__\/\__\/   \__\/    \__\/\__\/ \__\/ \::\/ \__\/\__\/
+-->
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+<head>
+  <title>Wataha Tech Team</title>
 
-    {% include meta.html %}
+  {% include meta.html %}
 
     <!--[if lt IE 9]>
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -14,92 +59,103 @@
 
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
     <style>
+    .parallax {
+      height: 100vh;
+      margin: 0 auto;
+      position: relative;
+      background-image: url('{{ site.baseurl }}/images/wolf.jpg');
+      background-attachment: fixed;
+      background-position: center center;
+      background-repeat: no-repeat;
+      background-size: cover;
+    }
+    .main-title {
+      position: absolute;
+      top: 20vh;
+      left: 0;
+      right: 0;
+      text-align: center;
+      margin: 0 auto;
+      font-family: 'Oswald Stencil Bold', arial;
+      font-size: 60px;
+      color: #222 !important;
+    }
+    .main-title:hover {
+      color: #222 !important;
+    }
+    .site-name {
+      font-family: 'Oswald Stencil Bold', arial;
+      line-height: 1.5;
+    }
+    .site-description {
+      font-family: 'Oswald Stencil Bold', arial;
+      text-align: center;
+      font-size: 23px;
+      line-height: 1.5;
+      margin: -5px 0 0 0;
+    }
+    .current {
+      color: #e81c4f;
+    }
+    @media screen and (max-width: 640px) {
       .parallax {
-        background-image: url('{{ site.baseurl }}/images/wolf.gif');
-        position: relative;
-        height: 100vh;
-        max-width: 1366px;
-        margin: 0 auto;
-        background-attachment: fixed;
-        background-position: center center;
-        background-repeat: no-repeat;
-        background-size: cover;
-        display: flex;
-        justify-content: center;
-      }
-      .main-title {
-        font-family: 'Oswald Stencil Bold', arial;
-        margin-top: 120px;
-        font-size: 60px;
+        background-attachment: scroll;
       }
       .site-name {
-        font-family: 'Oswald Stencil Bold', arial;
-        line-height: 1.5;
+        margin-top: 10px;
       }
-      .site-description {
-        font-family: 'Oswald Stencil Bold', arial;
-        text-align: center;
-        font-size: 23px;
-        line-height: 1.5;
-        margin: -5px 0 0 0;
-      }
-      @media screen and (max-width: 640px) {
-        .parallax {
-          background-attachment: scroll;
-        }
-        .site-name {
-          margin-top: 10px;
-        }
-      }
-    </style>
-  </head>
-  <body>
-    <div class="parallax">
-      <h1 class="main-title">
-        WATAHA
-      </h1>
+    }
+  </style>
+</head>
+
+<body>
+  <div class="parallax">
+    <a class="main-title" href="/">
+      WATAHA
+    </a>
+  </div>
+  <div class="wrapper-masthead">
+    <div class="container">
+      <header class="masthead clearfix">
+        <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.baseurl }}/images/logo.png" /></a>
+
+        <div class="site-info">
+          <h1 class="site-name"><a href="{{ site.baseurl }}/">WATAHA</a></h1>
+          <p class="site-description">TECH TEAM</p>
+        </div>
+
+        <nav>
+          <a {% if page.url == '/' %}class='current'{% endif %} href="{{ site.baseurl }}/">Oferta</a>
+          <a {% if page.url == '/pozycje' %}class='current'{% endif %} href="{{ site.baseurl }}/pozycje">Pozycje</a>
+          <a {% if page.url == '/o-nas' %}class='current'{% endif %} href="{{ site.baseurl }}/o-nas">O nas</a>
+        </nav>
+      </header>
     </div>
-    <div class="wrapper-masthead">
-      <div class="container">
-        <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.baseurl }}/images/logo.png" /></a>
+  </div>
 
-          <div class="site-info">
-            <h1 class="site-name"><a href="{{ site.baseurl }}/">WATAHA</a></h1>
-            <p class="site-description">TECH TEAM</p>
-          </div>
+  <div id="main" role="main" class="container">
+    {{ content }}
+    <hr style="margin: 50px 0 100px; border: none; height: 1px; background: #eee" />
+  </div>
 
-          <nav>
-            <a href="{{ site.baseurl }}/">Rekrutacja</a>
-            <a href="{{ site.baseurl }}/about">About</a>
-          </nav>
-        </header>
-      </div>
-    </div>
+  <div class="footer">
+    <a class="footer-link" target="_blank" href="https://github.com/socialwolves">
+      <i class="fab fa-github"></i>
+    </a>
+    <a class="footer-link" target="_blank" href="https://www.linkedin.com/in/janhorubala">
+      <i class="fab fa-linkedin"></i>
+    </a>
+    <a class="footer-link" target="_blank" href="https://stackoverflow.com/users/6041704/jonzee">
+      <i class="fab fa-stack-overflow"></i>
+    </a>
+    <a class="footer-link" target="_blank" href="https://twitter.com/jonzee_">
+      <i class="fab fa-twitter-square"></i>
+    </a>
+    <a class="footer-link" target="_blank" href="mailto:jan.horubala@gmail.com">
+      <i class="fas fa-at"></i>
+    </a>
+  </div>
 
-    <div id="main" role="main" class="container">
-      {{ content }}
-      <hr style="margin: 50px 0 100px; border: none; height: 1px; background: #eee" />
-    </div>
-
-    <div class="footer">
-      <a class="footer-link" target="_blank" href="https://github.com/socialwolves">
-        <i class="fab fa-github"></i>
-      </a>
-      <a class="footer-link" target="_blank" href="https://www.linkedin.com/in/janhorubala">
-        <i class="fab fa-linkedin"></i>
-      </a>
-      <a class="footer-link" target="_blank" href="https://stackoverflow.com/users/6041704/jonzee">
-        <i class="fab fa-stack-overflow"></i>
-      </a>
-      <a class="footer-link" target="_blank" href="https://twitter.com/jonzee_">
-        <i class="fab fa-twitter-square"></i>
-      </a>
-      <a class="footer-link" target="_blank" href="mailto:jan.horubala@gmail.com">
-        <i class="fas fa-at"></i>
-      </a>
-    </div>
-
-    {% include analytics.html %}
-  </body>
+  {% include analytics.html %}
+</body>
 </html>

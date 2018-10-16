@@ -1,18 +1,18 @@
 # TODO
++ optymalizacja gif'a (wywaliłem gifa)
++ optymalizacja ładowania (png > jpg)
++ dodać favicon
++ dodać zdjęcia swoje
 - dodać info co oferujemy
-- dodać zdjęcia
-- dodać favicon
-- optymalizacja gif'a
-- optymalizacja ładowania
-
+- dodać zdjęcia SW
 
 
 # Fonts
 https://fonts2u.com/xxii-dirty-army.font
 https://www.fontsquirrel.com/fonts/Boston-Traffic
 
-
 # Debug
 - Iphone
   - Safari > wchodzimy na stronę na telefonie w safari
   - Chrome > chyba się nie da
+  - nigdy nie używać flex'a bo to po prostu nie działa!
