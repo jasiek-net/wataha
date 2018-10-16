@@ -5,7 +5,7 @@
 + dodać zdjęcia swoje
 + dodać info co oferujemy
 + dodać zdjęcia SW
-- SSL na stronę
++ SSL na stronę
 
 
 # Fonts
