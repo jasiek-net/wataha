@@ -4,12 +4,12 @@
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/o-nas</loc>
+</url>
+<url>
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/pozycje</loc>
-</url>
-<url>
-<loc>http://localhost:4000/o-nas</loc>
 </url>
 </urlset>

@@ -27,16 +27,16 @@ Nazywam się Janek Horubała, jestem programistą web i mobile z ponad 5-letnim 
 
 
 ## Zapraszamy do naszego zespołu!
-<div class="me">
-  <div class="">
+<div class="mes">
+  <div class="me">
     <div style="background-image: url('/images/me/frontend.jpg')" class="img"></div>
     Frontend
   </div>
-  <div class="">
+  <div class="me">
     <div style="background-image: url('/images/me/backend.jpg')" class="img"></div>
     Backend
   </div>
-  <div class="">
+  <div class="me">
     <div style="background-image: url('/images/me/devops.jpg')" class="img"></div>
     DevOps
   </div>
