@@ -4,7 +4,7 @@ permalink: /
 ---
 
 # Cześć!
-Szukamy programistów do zespołu technologicznego. Opis stanowisk i&nbsp;przykładowe zadania znajdziesz w zakładce <a href="/pozycje">pozycje</a>. Szczegółowe informacje o naszej działalności i&nbsp;głównym projekcie - platformie zwolnienizteorii.pl - znajdziesz w zakładce <a href="/o-nas">o nas</a>. Zależy nam na tworzeniu długofalowych relacji i wspólnym znajdowaniu możliwości, więc jeśli coś Cię zainteresuje, po prostu napisz <a href="mailto:jan.horubala@socialwolves.com">e-maila</a> i umówmy się na spotkanie.
+Szukamy programistów do zespołu technologicznego. Opis stanowisk i&nbsp;przykładowe zadania znajdziesz w zakładce <a href="/pozycje.html">pozycje</a>. Szczegółowe informacje o naszej działalności i&nbsp;głównym projekcie - platformie zwolnienizteorii.pl - znajdziesz w zakładce <a href="/o-nas.html">o nas</a>. Zależy nam na tworzeniu długofalowych relacji i wspólnym znajdowaniu możliwości, więc jeśli coś Cię zainteresuje, po prostu napisz <a href="mailto:jan.horubala@socialwolves.com">e-maila</a> i umówmy się na spotkanie.
 
 <div class="sws">
   <div data-index="0" class="sw" style="background-image: url('{{ site.baseurl }}/images/sw/min_s0.jpg')"></div>
@@ -16,17 +16,16 @@ Szukamy programistów do zespołu technologicznego. Opis stanowisk i&nbsp;przyk�
 # Co oferujemy?
 - elastyczne godziny pracy
 - możliwość pracy zdalnej
-- stabilne warunki pracy
-- świeże owoce i pyszną kawę
-- startupową, przyjazną i inspirującą atmosferę
-- pracę z zaangażowanymi i przedsiębiorczymi ludźmi
-- dostęp do konferencji i warsztatów, książki branżowe
-- wspólne imprezy i wyjazdy integracyjne 2 razy w roku
-- wydarzenia Zwolnionych - wielki finał, trasa, imprezy i szkolenia mentorskie
+- świeże owoce i&nbsp;pyszną kawę
+- startupową, przyjazną i&nbsp;inspirującą atmosferę
+- pracę z zaangażowanymi i&nbsp;przedsiębiorczymi ludźmi
+- dostęp do konferencji i&nbsp;warsztatów, książki branżowe
+- wspólne imprezy i&nbsp;wyjazdy integracyjne 2 razy w roku
+- wydarzenia Zwolnionych - wielki finał, trasa, imprezy i&nbsp;szkolenia mentorskie
 - świetną lokalizację biura na Żoliborzu, 15 metrów od wyjścia z metra Plac Wilsona
-- dobrze wyposażone biuro (kuchnia, lodówka, ekspres, prysznic i pralka ;)
+- dobrze wyposażone biuro (kuchnia, lodówka, ekspres, prysznic i&nbsp;pralka ;)
 - możliwość rozwijania własnych projektów, wsparcie merytoryczne
-- możliwość nauki i rozwoju w oparciu o najlepsze praktyki programistyczne
+- możliwość nauki i&nbsp;rozwoju w oparciu o najlepsze praktyki programistyczne
 - dostęp do inicjatyw i energii tysięcy młodych ludzi z całej Polski, realizujących projekty społeczne na platformie
 - nieformalne rozmowy oraz czerpanie wiedzy biznesowej od naszych Przyjaciół i&nbsp;partnerów biznesowych, m.in. kadry zarządzającej Coca-Cola czy Google
 
@@ -75,7 +74,6 @@ document.addEventListener('click', function (event) {
   gallery.init();
 
 }, false);
-
 </script>
 
 
