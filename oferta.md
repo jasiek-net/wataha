@@ -29,14 +29,14 @@ Szukamy programistów do zespołu technologicznego. Opis stanowisk i&nbsp;przyk�
 - dostęp do inicjatyw i energii tysięcy młodych ludzi z całej Polski, realizujących projekty społeczne na platformie
 - nieformalne rozmowy oraz czerpanie wiedzy biznesowej od naszych Przyjaciół i&nbsp;partnerów biznesowych, m.in. kadry zarządzającej Coca-Cola czy Google
 
-# Z kim działamy?
+<!-- # Z kim działamy?
 <div class="marks">
   <div class="mark" style="background-image: url('{{ site.baseurl }}/images/partners/p2.jpg')"></div>
   <div class="mark" style="background-image: url('{{ site.baseurl }}/images/partners/p3.jpg')"></div>
   <div class="mark" style="background-image: url('{{ site.baseurl }}/images/partners/p4.jpg')"></div>
   <div class="mark" style="background-image: url('{{ site.baseurl }}/images/partners/p1.jpg')"></div>
 </div>
-
+ -->
 # Wyróżnienia
 <div class="marks">
   <div class="mark" style="background-image: url('{{ site.baseurl }}/images/marks/m1.jpg')"></div>
