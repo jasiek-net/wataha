@@ -21,13 +21,14 @@ Szukamy programistów do zespołu technologicznego. Opis stanowisk i&nbsp;przyk�
 - pracę z zaangażowanymi i&nbsp;przedsiębiorczymi ludźmi
 - dostęp do konferencji i&nbsp;warsztatów, książki branżowe
 - wspólne imprezy i&nbsp;wyjazdy integracyjne 2 razy w roku
-- wydarzenia Zwolnionych - wielki finał, trasa, imprezy i&nbsp;szkolenia mentorskie
+- wydarzenia Zwolnionych - Wielki Finał, trasa, imprezy i&nbsp;szkolenia mentorskie
 - świetną lokalizację biura na Żoliborzu, 15 metrów od wyjścia z metra Plac Wilsona
 - dobrze wyposażone biuro (kuchnia, lodówka, ekspres, prysznic i&nbsp;pralka ;)
 - możliwość rozwijania własnych projektów, wsparcie merytoryczne
 - możliwość nauki i&nbsp;rozwoju w oparciu o najlepsze praktyki programistyczne
 - dostęp do inicjatyw i energii tysięcy młodych ludzi z całej Polski, realizujących projekty społeczne na platformie
 - nieformalne rozmowy oraz czerpanie wiedzy biznesowej od naszych Przyjaciół i&nbsp;partnerów biznesowych, m.in. kadry zarządzającej Coca-Cola czy Google
+- wynagrodzenie (złotych / miesięcznie): junior 2k - 4k, mid/senior 6k - 10k
 
 <!-- # Z kim działamy?
 <div class="marks">
