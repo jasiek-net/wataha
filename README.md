@@ -6,7 +6,10 @@
 + dodać info co oferujemy
 + dodać zdjęcia SW
 + SSL na stronę
-
++ wilcze łapki zamiast kropek
++ dodać widełki
++ przejrzeć uwagi Kundziołki, Marysi i Pietrowskiego
+- rozesłać
 
 # Fonts
 https://fonts2u.com/xxii-dirty-army.font
