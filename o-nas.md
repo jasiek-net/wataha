@@ -22,8 +22,8 @@ Budujemy zgrany zespół ludzi, których łączy fascynacja technologią. Skupia
 
 Pracując w startupie społecznym kładziemy nacisk na budowanie relacji i&nbsp;dbanie o wspólnie spędzony czas. Nie ma tu przypadkowych osób. Nasza praca to nie sprint, tylko maraton, dlatego inspirujemy i&nbsp;motywujemy się na pozostałych płaszczyznach życia.
 
-## O mnie
-Nazywam się Janek Horubała, jestem programistą web i&nbsp;mobile z ponad 5-letnim doświadczeniem. W ramach licencjatu z informatyki na MIM UW napisałem aplikację do rozpoznawania piw. Przewinąłem się przez takie miejsca jak Kalicińscy, Laboratorium EE czy Daftcode. Działałem w firmach zatrudniających ponad 100 pracowników, jak i&nbsp;małych startupach złożonych z 2-3 osób. Aktywnie uczestniczę w środowiskach programistyczno-startupowych (Reaktor, Indiehackers) i&nbsp;prowadzę szkolenia z&nbsp;programowania w&nbsp;ramach warsztatów WarsawJS. Od roku działam w Zwolnionych z&nbsp;Teorii w roli tech leada.
+## Tech Lead
+Nazywam się Janek Horubała, jestem programistą web i&nbsp;mobile z ponad 5-letnim doświadczeniem. W ramach licencjatu z informatyki na MIM UW napisałem aplikację do rozpoznawania piw. Przewinąłem się przez takie miejsca jak Kalicińscy, Laboratorium EE czy Daftcode. Działałem w firmach zatrudniających ponad 100 pracowników, jak i&nbsp;małych startupach złożonych z 2-3 osób. Aktywnie uczestniczę w środowiskach programistyczno-startupowych (Reaktor, Indiehackers) i&nbsp;prowadzę szkolenia z&nbsp;programowania w&nbsp;ramach warsztatów WarsawJS. Od roku działam w Zwolnionych z&nbsp;Teorii w roli Tech Lead'a.
 
 
 ## Zapraszamy do naszego zespołu!
