@@ -4,7 +4,7 @@ permalink: /
 ---
 
 # Cześć!
-Szukamy programistów do zespołu technologicznego. Opis stanowisk i&nbsp;przykładowe zadania znajdziesz w zakładce <a href="/pozycje.html">pozycje</a>. Szczegółowe informacje o naszej działalności i&nbsp;głównym projekcie - platformie zwolnienizteorii.pl - znajdziesz w zakładce <a href="/o-nas.html">o nas</a>. Zależy nam na tworzeniu długofalowych relacji i wspólnym znajdowaniu możliwości, więc jeśli coś Cię zainteresuje, po prostu napisz <a href="mailto:jan.horubala@socialwolves.com">e-maila</a> i umówmy się na spotkanie.
+Szukamy programistów do zespołu technologicznego. Opis stanowisk i&nbsp;przykładowe zadania znajdziesz w zakładce <a href="/pozycje.html">pozycje</a>. Szczegółowe informacje o naszej działalności i&nbsp;głównym projekcie - platformie zwolnienizteorii.pl - znajdziesz w zakładce <a href="/o-nas.html">o nas</a>. Zależy nam na tworzeniu długofalowych relacji i wspólnym znajdowaniu możliwości, więc jeśli coś Cię zainteresuje, po prostu napisz <a href="mailto:jan.horubala@gmail.com">e-maila</a> i umówmy się na spotkanie.
 
 <div class="sws">
   <div data-index="0" class="sw" style="background-image: url('{{ site.baseurl }}/images/sw/min_s0.jpg')"></div>
@@ -26,9 +26,9 @@ Szukamy programistów do zespołu technologicznego. Opis stanowisk i&nbsp;przyk�
 - dobrze wyposażone biuro (kuchnia, lodówka, ekspres, prysznic i&nbsp;pralka ;)
 - możliwość rozwijania własnych projektów, wsparcie merytoryczne
 - możliwość nauki i&nbsp;rozwoju w oparciu o najlepsze praktyki programistyczne
-- dostęp do inicjatyw i energii tysięcy młodych ludzi z całej Polski, realizujących projekty społeczne na platformie
+- dostęp do inicjatywy i energii tysięcy młodych ludzi z całej Polski, realizujących projekty społeczne na platformie
 - nieformalne rozmowy oraz czerpanie wiedzy biznesowej od naszych Przyjaciół i&nbsp;partnerów biznesowych, m.in. kadry zarządzającej Coca-Cola czy Google
-- wynagrodzenie (złotych / miesięcznie): junior 2k - 4k, mid/senior 6k - 10k
+- wynagrodzenie (złotych / miesięcznie): junior 2k - 4k, senior 6k - 10k
 
 <!-- # Z kim działamy?
 <div class="marks">
@@ -73,7 +73,6 @@ document.addEventListener('click', function (event) {
   var index = parseInt(event.target.dataset.index || 0, 10);
   var gallery = new PhotoSwipe(pswpElement, PhotoSwipeUI_Default, items, { index: index });
   gallery.init();
-
 }, false);
 </script>
 

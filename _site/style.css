@@ -755,10 +755,10 @@ li:before {
   margin: 0 auto;
 }
 .marks .mark {
-  flex: 0 0 150px;
-  margin: 10px;
+  flex: 0 0 130px;
+  margin: 20px;
   display: inline-block;
-  width: 150px;
+  width: 130px;
   height: 90px;
   background-position: center center;
   background-size: contain;
@@ -778,6 +778,10 @@ li:before {
   background-size: cover;
   background-repeat: no-repeat;
   cursor: pointer;
+  transition: transform .3s ease-out;
+}
+.sws .sw:hover {
+  transform: scale(1.05);
 }
 
 @media screen and (max-width: 640px) {

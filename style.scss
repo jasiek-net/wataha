@@ -328,10 +328,10 @@ li:before {
   justify-content: center;
   margin: 0 auto;
   .mark {
-    flex: 0 0 150px;
-    margin: 10px;
+    flex: 0 0 130px;
+    margin: 20px;
     display: inline-block;
-    width: 150px;
+    width: 130px;
     height: 90px;
     background-position: center center;
     background-size: contain;
@@ -351,6 +351,10 @@ li:before {
     background-size: cover;
     background-repeat: no-repeat;
     cursor: pointer;
+    transition: transform .3s ease-out;
+    &:hover {
+      transform: scale(1.05);
+    }
   }
 }
 

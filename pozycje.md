@@ -13,6 +13,7 @@ Szukamy testera z aspiracjami programistycznymi. Wiele narzędzi budujemy od now
 - research i wdrażanie nowych narzędzi
 - tworzenie dokumentacji i user stories
 - konfiguracja środowisk testowych
+- około 3/5 etatu (24h tygodniowo)
 
 # Frontend junior
 Szukamy osoby, która chce rozwijać się w kierunku frontendu, pracując z najnowszymi frameworkami i technologiami. Wymagamy umiejętności szybkiego uczenia się i samodzielności (nie musisz mieć doświadczenia w programowaniu). Ponieważ najlepiej poznawać rzeczy w praktyce, od samego początku będziesz tworzyć użyteczny kod.
@@ -24,6 +25,7 @@ Szukamy osoby, która chce rozwijać się w kierunku frontendu, pracując z najn
 - tworzenie wersji mobilnej na podstawie aplikacji webowej
 - pisanie testów jednostkowych w Jasmine, Mocha, etc.
 - research i wdrażanie nowych narzędzi
+- około 3/5 etatu (24h tygodniowo)
 
 # Backend mid/senior
 Szukamy doświadczonej osoby, która poprowadzi częściowy refaktoring złożonego backendu i postawi fundament pod nowe API. Wymagane doświadczenie w projektach o podobnej wielkości, duża samodzielność i umiejętność dzielenia pracy z junior-devem. Będziesz miał dużą swobodę w dobieraniu technologii i rozwiązań.
@@ -35,6 +37,7 @@ Szukamy doświadczonej osoby, która poprowadzi częściowy refaktoring złożon
 - konfiguracja infrastruktury złożonej z kilkunastu serwerów
 - zaprojektowanie nowej architektury bazy danych
 - zmigrowanie 40.000 kont użytkowników i ich danych
+- zaagnażowanie na pełen etat, projekt na pół roku
 
 # Technologia
 ## Frontend
@@ -54,7 +57,14 @@ Szukamy doświadczonej osoby, która poprowadzi częściowy refaktoring złożon
 
 ## Narzędzia
 - Airtable
+- Toggle
 - Gitlab
 - Slack
 - Sublime
 - Linux/MacOS
+
+## Metodyki
+- Lean Startup
+- Pomodoro
+- Joel Test
+- Design Sprint
