@@ -1,0 +1,121 @@
+<!-- wniosek:
+  - używamy dalej nuxt'a z nuxt-i18n
+
+step by step
+  - jak realizowana jest i18n?
+    - w vue > vue-i18n > https://kazupon.github.io/vue-i18n/guide/started.html#javascript
+    - w nuxt > nuxt-i18n > https://nuxt-community.github.io/nuxt-i18n/basic-usage.html#nuxt-link
+    - w vuepress
+    - w gatsby.js
+
+
+{
+  home: {
+    land: {
+      head: 'Zrób własny projekt społeczny',
+      foot: 'zdobądź międzynarodowy certyfikat i lepszą pracę',
+      movie: 'Oglądaj film jak to działa',
+      join: 'Dołącz teraz!'
+    }
+  }
+}
+
+- https://medium.com/hong-kong-tech/dynamic-translate-using-vue-i18n-vuejs-c730093a63e2
+// HTML Part
+<h2></h2> // OR
+<div v-bind:title="$t('lang.notice.msg')"></div>
+// JS Part
+import i18n from '../locale/config'
+i18n.t('lang.notice.msg')
+
+- czyli najlepsze rozwiązanie to bindować gdzieś częściowe obiekty i przekazywać w dół (juz dalej powinno sie dać)
+
+- i potem wyświeltamy stronę w trybie edycji
+  v-html="" v-model? jakoś musi to być edytowalne (zmieniamy typ na input?)
+  i jakiś sposób na odpalanie "dispatch!" to w vuex?
+- sprawdzić jak się ma vuex do i18n
+- czy możemy jakoś dorwać się do i18n i zmieniać go w locie?
+- czy możemy zrobić dump'a tego i18n i przesłać na serwer?
+- jak możemy podmienić wszystkie texty na inputy/text-area?
+https://codepen.io/supraniti/pen/Lypobx
+
+te dodatki do internalizacji polegają na przekazaniu klucza do funkcji
+  - $t('home.hello')
+dlaczego mi się to nie podoba? chciałbym móc rozebrać jsona i przekazywać go w dół do
+
+Wpis na bloga: VuePress vs GatsbyJS
+  - możliwość zarządzania treścią (jakiś prymitywny CMS) - zarówno tekstem jak i obrazkami
+  - wielojęzyczność out of the box
+  - mile widzane turbo-ficzery: PWA, optymalizacja, etc.
+
+  - strona jest dość skomplikowana (nie ma ustalonej struktury)
+    - część narzędzi jest wprost pod dokumentację (vuepress)
+    - częśc ma być pseudo-blogiem (wordpress, narzędzia wykorzystujące markdown)
+  - w tym wypadku markdown się nie przyda, ponieważ strona ma dość specyficzną strukturę: każda podstrona składa się z innych sekcji, nie wygląda to ani na bloga ani na dokumentację
+  - z tego powodu wordpress odpada (mimo możliwości tworzenia ACF i REST API)
+  - najchętniej trzymałbym jsony z treścią per zakładka
+    + możliwość real-time edycji tych jsonów dla nie-programisty
+    + możliwość wprowadzania wersji językowych
+    + możliwość deploy
+
+- markdown mnie nie interesuje!!! nie pasuje do specyfikacji strony
+- co potrzebuję sprawdzić
+  - generowanie nuxt/vuepress z jsonów
+  - łatwość tworzenia wersji językowych
+  - narzędzie do edycji jsonow dla nie-programisty
+  - skrypt do deploy'u dla nie-programisty
+  - podstrona renderująca real-time zmiany na stronie
+
+- jak działa nuxt i vuepress multi-lang?
+
+- jekyll
+
+
+- możliwość łatwej edycji treści
+- możliwość podmieniania zdjęć i ikon
+- tworzenie nowych wersji językowych bez ingerencji programisty
+- wszystkie bajery i lasery (SEO, SSR, PWA, SPA, optymalizacja)
+
+Aby to osiągnąć
+- wydzielenie warstwy treści poza logikę aplikacji
+- wydzielenie obrazków i ikon
+- możliwość edycji treści w prosty sposób
+- możliwość deploy'u nowych wersji bez znajomości kodu
+
+vuepress
+  - jak mogę edytować treść i podmieniać?
+  - markdown - nie interesuje mnie to wcale
+  - wordpress + gatsbyjs?
+
+  - wordpress - wydaje się okej, ale pewnie przypał przy multilanguage!
+  - wordpress - odpada, bo co angażować coś ogromnego, wystarczy raczej mały plik json dla każdej podstrony
+
+
+zakładka
+  /dlaczego-warto
+  /dlaczego-warto
+    /pl.json
+    /en.json
+    /de.json
+
+za VuePress
+  - sprawdzić jak jest z językami
+
+
+
+przeciwko GatsbyJS
+  - zbyt skomplikowane jednak i oderwane od rzeczywiści https://twitter.com/mikeal/status/1022181060455489536?lang=en
+  - w vue mogę spokojnie pisać bez znajomości vue
+
+
+
+prosta integracja gatsbyjs z wordpressem
+  - acf - spoko
+  - advenced wordpress
+  - graphql - spok
+  - http://watch-learn.com/video-tutorials/gatsby-wordpress-pagination-advanced-custom-fields
+
+  - https://codeburst.io/introducing-vuepress-wordpress-development-with-vue-and-graphql-f5063a97bb69
+  - https://github.com/ramsaylanier/wordexpress-starter-vue
+
+ -->

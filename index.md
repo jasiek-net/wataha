@@ -27,8 +27,9 @@ Szukamy programistów do zespołu technologicznego. Opis stanowisk i&nbsp;przyk�
 - możliwość rozwijania własnych projektów, wsparcie merytoryczne
 - możliwość nauki i&nbsp;rozwoju w oparciu o najlepsze praktyki programistyczne
 - dostęp do inicjatywy i energii tysięcy młodych ludzi z całej Polski, realizujących projekty społeczne na platformie
+- motywację do rozwoju, uczestnictwo w konferencjach programistycznych, doskonalenia warsztatu technicznego przez kursy i hackathony
 - nieformalne rozmowy oraz czerpanie wiedzy biznesowej od naszych Przyjaciół i&nbsp;partnerów biznesowych, m.in. kadry zarządzającej Coca-Cola czy Google
-- wynagrodzenie (złotych / miesięcznie): junior 2k - 4k, senior 6k - 10k
+- wynagrodzenie (złotych / miesięcznie): junior do 3k, senior do 10k
 
 <!-- # Z kim działamy?
 <div class="marks">
